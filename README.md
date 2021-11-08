@@ -1,7 +1,15 @@
 # What does it do?
-## It compares item_names and item_proto files and tells you the missing vnums.
+### It compares item_names and item_proto files and tells you the missing vnums.
 
 |Needed items|
 |---|
 |Item Proto|
 |Item Names|
+
+- [x] First of all, you have to put this .py file, your item_names file and you item_proto file to same directory
+- [x] Then, start the program and it tells you which vnums are missing eachother
+
+
+> What do you need for the run this
+
+- [x] You must just download Python's lastest version.
